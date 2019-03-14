@@ -6,6 +6,7 @@ apt install  default-mysql-server/kali-rolling
 apt install default-mysql-client/kali-rolling
 
 ----Start mysql-----
+
 # /etc/init.d/mysql start
 
 ---install mysql----
